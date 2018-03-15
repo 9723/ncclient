@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/ncclient/ncclient.svg?branch=master)](https://travis-ci.org/ncclient/ncclient)
-[![Coverage Status](https://coveralls.io/repos/github/ncclient/ncclient/badge.svg?branch=master)](https://coveralls.io/github/ncclient/ncclient?branch=master)
+[![Build Status](https://travis-ci.org/9723/ncclient.svg?branch=master)](https://travis-ci.org/9723/ncclient)
+[![Coverage Status](https://coveralls.io/repos/github/9723/ncclient/badge.svg?branch=master)](https://coveralls.io/github/9723/ncclient?branch=master)
 [![Documentation Status](https://readthedocs.org/projects/ncclient/badge/?version=latest)](https://readthedocs.org/projects/ncclient/?badge=latest)
 
 ncclient: Python library for NETCONF clients
